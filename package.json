@@ -1,6 +1,6 @@
 {
   "name": "adpp-rowspanizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dynamic rowspan based on the content of the table for ADPP",
   "main": "jquery.rowspanizer.min.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/hungphambms/adpp-rowspanizer.git"
   },
-  "author": "",
+  "author": "hungphambms",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hungphambms/adpp-rowspanizer/issues"
