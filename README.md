@@ -1,6 +1,12 @@
 # jquery.rowspanizer.js
 Dynamic rowspan based on the content of the table for ADPP
 
+## INSTALL
+
+```shell
+npm install adpp-rowspanizer
+```
+
 ### jQuery
 
 Use the plugin as follows:
