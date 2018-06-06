@@ -1,6 +1,6 @@
 {
   "name": "adpp-rowspanizer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dynamic rowspan based on the content of the table for ADPP",
   "main": "jquery.rowspanizer.min.js",
   "scripts": {
